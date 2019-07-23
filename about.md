@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-**Hello! I am Anton, welcome to my web page.**
+**Hello! I'm Anton, welcome to my web page.**
 
 ### About me
 
