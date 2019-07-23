@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+**Hello! I am Anton, welcome to my web page.**
 
-### More Information
+### About me
 
-A place to include any other types of information that you'd like to include about yourself.
+TODO: Add intro info about me [5-7 sentences]
 
 ### Contact me
 
