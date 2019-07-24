@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Sport
-permalink: /sport/
+permalink: /sport
 ---
 
-**I will post my running log here.**
-
-Running log
+I will post my running log here soon!

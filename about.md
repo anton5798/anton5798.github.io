@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /
 ---
 
 **Hello! I'm Anton, welcome to my web page.**
@@ -9,7 +9,3 @@ permalink: /about/
 ### About me
 
 TODO: Add intro info about me [5-7 sentences]
-
-### Contact me
-
-[anton5798@ucla.edu](mailto:anton5798@ucla.edu)
