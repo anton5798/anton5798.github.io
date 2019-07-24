@@ -19,11 +19,11 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email: anton5798@ucla.edu
-  facebook:
+  facebook: antony.lykov
   flickr:
   github: anton5798
   instagram: anton5798
-  linkedin:
+  linkedin: anton-lykov
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
@@ -73,7 +73,7 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
+plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
