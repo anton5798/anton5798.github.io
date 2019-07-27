@@ -4,8 +4,8 @@ title: About
 permalink: /
 ---
 
-**Hello! I'm Anton, welcome to my web page.**
+### Hey! Welcome to my webpage!
 
-### About me
+I'm currently doing research in [StarAI](http://starai.cs.ucla.edu/) lab at UCLA.
 
-TODO: Add intro info about me [5-7 sentences]
+More to come!
