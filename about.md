@@ -8,4 +8,4 @@ permalink: /
 
 I'm currently doing research in [StarAI](http://starai.cs.ucla.edu/) lab at UCLA.
 
-More to come!
+Check out my [Resume!](/docs/Resume.pdf)
