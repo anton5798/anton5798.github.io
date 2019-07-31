@@ -52,7 +52,7 @@ permalink: /courses/cs
 #### Coursera
 
 * **Machine Learning** <a href="https://www.coursera.org/learn/machine-learning" target="_blank">  (course page) </a>  
-  Angrew Ng. Summer 2018. [My homework]
+  Andrew Ng. Summer 2018. [My homework]
 
 * **Deep Learning.ai specialization** <a href="https://www.coursera.org/specializations/deep-learning" target="_blank">  (course page) </a>    
   Andrew Ng. Winter 2019. [My homework]

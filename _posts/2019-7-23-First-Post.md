@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Hello
+title:
+published: false
 ---
 
 Hi there! This is my first post.
