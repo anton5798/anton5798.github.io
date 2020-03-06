@@ -26,11 +26,20 @@ permalink: /courses/cs
 * **(CS 143) Database Systems**  
   Ryan Rosario. Spring 2019.
 
+* **(CS M151B) Computer Systems Architecture**  
+	Glenn Reinman. Winter 2020.
+
+* **(CS M152A) Digital Design Lab**  
+	Winter 2020.
+
 * **(CS 180) Algorithms and Complexity**  
   Raghu Meka. Spring 2018.
 
 * **(CS 181) Formal Languages and Automata Theory**  
 	Alexander Sherstov. Fall 2018.
+
+* **(CS 188) Scalable Internet Services**  
+	Andrew Mutz, John Rothfels. Fall 2019.
 
 #### Graduate
 
