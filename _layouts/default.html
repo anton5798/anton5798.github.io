@@ -26,16 +26,14 @@
             <p class="site-description">{{ site.description }}</p>
           </div>
         </header>
-        <header class="masthead clearfix">
+
+        <div>
           <nav>
-            <a href="{{ site.baseurl }}/">About</a>
-            <!-- <a href="{{ site.baseurl }}/blog">Blog</a> -->
-            <!-- <a href="{{ site.baseurl }}/projects">Projects</a> -->
-            <a href="{{ site.baseurl }}/reads">Reads</a>
-            <a href="{{ site.baseurl }}/courses/cs">Courses</a>
-            <a href="{{ site.baseurl }}/sport">Sport</a>
+            <a href="{{ site.baseurl }}/">Home</a>
+            <a href="{{ site.baseurl }}/resume">Resume</a>
           </nav>
-        </header>
+        </div>
+
       </div>
     </div>
 
@@ -44,13 +42,13 @@
       {{ content }}
     </div>
 
-    <div class="wrapper-footer">
+    <!-- <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
           {% include svg-icons.html %}
         </footer>
       </div>
-    </div>
+    </div> -->
 
     {% include analytics.html %}
   </body>

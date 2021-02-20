@@ -6,10 +6,10 @@
 name: Anton Lykov
 
 # Short bio or description (displayed in the header)
-description: Computer Science and Mathematics student at UCLA
+description: Computer Science PhD @ University of Washington
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/me.png
+avatar: /images/iam.jpg
 
 #
 # Flags below are optional
@@ -18,12 +18,12 @@ avatar: /images/me.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: anton5798@ucla.edu
-  facebook: antony.lykov
+  email:
+  facebook:
   flickr:
-  github: anton5798
-  instagram: anton5798
-  linkedin: anton-lykov
+  github:
+  instagram:
+  linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:

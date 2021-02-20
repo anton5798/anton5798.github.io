@@ -1,11 +1,34 @@
 ---
-layout: page
-title: About
+layout: default
+title: Home
 permalink: /
 ---
 
-### Hey! Welcome to my webpage!
+I am currently a PhD student at the UW Allen School of Computer Science, advised by Dan Suciu. 
 
-I am Anton. I am a senior at UCLA doing Computer Science & Mathematics.
-I'm doing research in [Statistical Relational AI lab](http://starai.cs.ucla.edu/) at UCLA.
-Besides, I am teaching extracurricullar topics in mathematics to high school students at [LA Math Circle](https://www.math.ucla.edu/~radko/circles/index.shtml?).
+### Research interests
+
+My interests lie broadly in data systems and machine learning. 
+Currently I'm focusing on optimizing join processing algorithms in relational database systems
+by using worst-case optimal join techniques. 
+
+### Brief bio
+
+Before my PhD, I studied Mathematics and Computer Science at University of California, Los Angeles. 
+There, I did research on inference in probabilistic models in the StarAI lab with
+great Guy Van den Broeck. I also was a lead instructor at the UCLA Olga Radko Endowed
+Math Circle, teaching a group of high-schol students mathematics.
+
+I interned at AWS Redshift where I worked on bringing Machine Learning capabilities
+into the data warehouse.
+Before that, I interned at Yandex in the Search Product, in the Notifications team working on optimizing establishing TLS connections. 
+I also interned at NAND Capital startup where I researched and implemented options pricing models
+and price volatility estimation techniques. 
+
+I grew up in Moscow, Russia.
+
+### Publications
+
+
+
+
