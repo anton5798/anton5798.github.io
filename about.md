@@ -27,7 +27,11 @@ and price volatility estimation techniques.
 
 I grew up in Moscow, Russia.
 
-<!-- ### Publications
+### Publications
 
-<style>ol.bibliography li { list-style: none }</style>
-{% bibliography --file papers %} -->
+* Guy Van den Broeck, <ins>Anton Lykov</ins>, Maximilian Schleich and Dan Suciu.   
+On the Tractability of SHAP Explanations   
+*In proceedings of the 35th AAAI Conference on Artificial Intelligence,* 2021.  
+AAAI Distringuished Papers Award   
+[ [pdf](/papers/AAAI2021.pdf) ] 
+
