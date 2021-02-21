@@ -16,7 +16,7 @@ by using worst-case optimal join techniques.
 ### Brief bio
 
 Before my PhD, I studied Mathematics and Computer Science at University of California, Los Angeles. 
-There, I did research on inference in probabilistic models in the [StarAI](http://starai.cs.ucla.edu/) and was fortunate to work with [Guy Van den Broeck](http://web.cs.ucla.edu/~guyvdb/). I also was a lead instructor at the [UCLA Olga Radko Endowed
+There, I did research on inference in probabilistic models in the [Statistical Relational AI Lab](http://starai.cs.ucla.edu/) and was fortunate to work with [Guy Van den Broeck](http://web.cs.ucla.edu/~guyvdb/). I also was a lead instructor at the [UCLA Olga Radko Endowed
 Math Circle](https://circles.math.ucla.edu/circles/), teaching mathematics to a group of high-school students.
 
 I interned at [AWS Redshift](https://aws.amazon.com/redshift/) where I worked on bringing Machine Learning capabilities
