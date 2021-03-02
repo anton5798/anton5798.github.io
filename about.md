@@ -19,8 +19,7 @@ Before my PhD, I studied Mathematics and Computer Science at University of Calif
 There, I did research on inference in probabilistic models in the [Statistical Relational AI Lab](http://starai.cs.ucla.edu/) and was fortunate to work with [Guy Van den Broeck](http://web.cs.ucla.edu/~guyvdb/). I also was a lead instructor at the [UCLA Olga Radko Endowed
 Math Circle](https://circles.math.ucla.edu/circles/), teaching mathematics to a group of high-school students.
 
-I interned at [AWS Redshift](https://aws.amazon.com/redshift/) where I worked on bringing Machine Learning capabilities
-into the data warehouse.
+I interned at [AWS Redshift](https://aws.amazon.com/redshift/) where I worked on [bringing ML into the data warehouse](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-amazon-redshift-ml-preview/).
 Before that, I interned at [Yandex](https://yandex.ru/company/) in the Search Product in the Notifications team working on optimizing establishing TLS connections. 
 I also interned at a startup called NAND Capital where I researched and implemented options pricing models
 and price volatility estimation techniques. 
