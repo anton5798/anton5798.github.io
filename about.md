@@ -25,6 +25,7 @@ I also interned at a fintech startup where I researched and implemented options 
 
 I grew up in Moscow, Russia.
 
+[ [My resume](/Resume/AntonLykov-jan2022.pdf) ]
 ### Publications
 
 * Guy Van den Broeck, <ins>Anton Lykov</ins>, Maximilian Schleich and Dan Suciu.   
