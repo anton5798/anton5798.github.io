@@ -24,7 +24,7 @@ I also interned at a fintech startup where I researched and implemented options 
 
 I grew up in Moscow, Russia.
 
-[ [My resume](/Resume/AntonLykov_Resume_2022.pdf) ]
+[ [My Resume](/Resume/AntonLykov_Resume_2022.pdf) ]
 
 ### Publications
 
