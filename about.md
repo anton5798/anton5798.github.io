@@ -6,7 +6,6 @@ permalink: /
 
 I am currently a PhD student at the UW Allen School of Computer Science, advised by [Dan Suciu](https://homes.cs.washington.edu/~suciu/).
 
-
 ### Research interests
 
 My interests lie broadly in data systems and machine learning. 
@@ -25,12 +24,12 @@ I also interned at a fintech startup where I researched and implemented options 
 
 I grew up in Moscow, Russia.
 
-[ [My resume](/Resume/AntonLykov-jan2022.pdf) ]
+[ [My resume](/Resume/AntonLykov_Resume_2022.pdf) ]
+
 ### Publications
 
 * Guy Van den Broeck, <ins>Anton Lykov</ins>, Maximilian Schleich and Dan Suciu.   
 On the Tractability of SHAP Explanations   
 *In proceedings of the 35th AAAI Conference on Artificial Intelligence,* 2021.  
 AAAI Distringuished Papers Award   
-[ [pdf](/papers/AAAI2021.pdf) ] 
-
+[ [pdf](/papers/AAAI2021.pdf) ]
