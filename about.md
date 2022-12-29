@@ -4,27 +4,23 @@ title: Home
 permalink: /
 ---
 
-I am currently a PhD student at the UW Allen School of Computer Science, advised by [Dan Suciu](https://homes.cs.washington.edu/~suciu/).
-
-### Research interests
-
-My interests lie broadly in data systems and machine learning. 
-Currently I'm focusing on optimizing join processing algorithms in relational database systems
-by using worst-case optimal join techniques. 
+I am currently a PhD student at the [database group](https://db.cs.washington.edu/), at UW Allen School of Computer Science, advised by [Dan Suciu](https://homes.cs.washington.edu/~suciu/). I'm broadly interested in data systems and machine learning. Right now, I'm focusing on natural languge interfaces for large knowledge graphs.
 
 ### Brief bio
 
-Before my PhD, I studied Mathematics and Computer Science at UCLA. 
-There, I did research on inference in probabilistic models in the [Statistical Relational AI Lab](http://starai.cs.ucla.edu/) and was fortunate to work with [Guy Van den Broeck](http://web.cs.ucla.edu/~guyvdb/). I also was a lead instructor at the [UCLA Olga Radko Endowed
-Math Circle](https://circles.math.ucla.edu/circles/), teaching mathematics to a group of high-school students.
+Prior to moving to UW, I studied Mathematics and Computer Science at UCLA. There, I was fortunate to work with [Guy Van den Broeck](http://web.cs.ucla.edu/~guyvdb/) and do research on inference in probabilistic models as a member of [Statistical Relational AI Lab](http://starai.cs.ucla.edu/).
+During all four years, I taught mathematics to a group of high-school students at the [UCLA Olga Radko Endowed
+Math Circle](https://circles.math.ucla.edu/circles/). I was also part of [Upsilon Pi Epsilon](https://upe.seas.ucla.edu/), and DevX - a student-led organization focusing on building useful things for the community at UCLA. We built an app that tracks crowdedness of libraries on campus in real time. 
 
-I interned at [AWS Redshift](https://aws.amazon.com/redshift/) where I worked on [bringing ML into the data warehouse](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-amazon-redshift-ml-preview/).
-Before that, I interned at [Yandex](https://yandex.ru/company/) optimizing the logic for establishing TLS handshakes. 
-I also interned at a fintech startup where I researched and implemented options pricing models and price volatility estimation techniques. 
+### Work experience
+I've also worked in a bunch of places!
+
+Most recently, I interned at [RelationalAI](https://relational.ai/), where I was integrating a novel query compiler into the main query processing engine. RelationalAI team is fantastic! 
+
+I also worked at [AWS Redshift](https://aws.amazon.com/redshift/) for two summers in a row. First time, I worked on [bringing ML into the data warehouse](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-amazon-redshift-ml-preview/). It was a very fun internship! 
+Next summer, I returned to Redshift again; this time, I was working on optimizing autoscaling configurations as a step to enable [Redshift Serverless](https://aws.amazon.com/redshift/redshift-serverless/). I also interned at NAND Capital, a trading startup, which was an exciting experience learning about financial markets. Here, I primarily researched and implemented options pricing models and ivol prediction. Finally, I interned at [Yandex](https://yandex.ru/company/) optimizing the logic for establishing TLS handshakes. 
 
 I grew up in Moscow, Russia.
-
-[ [My Resume](/Resume/AntonLykov_Resume_2022.pdf) ]
 
 ### Publications
 
