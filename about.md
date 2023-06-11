@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-I am currently a PhD student at the [database group](https://db.cs.washington.edu/), at UW Allen School of Computer Science, advised by [Dan Suciu](https://homes.cs.washington.edu/~suciu/). I'm broadly interested in data systems and machine learning. Right now, I'm focusing on natural languge interfaces for large knowledge graphs.
+I've just finished my graduate studies. After spending 2.5 years in the PhD program at the [database group](https://db.cs.washington.edu/), at UW Allen School of Computer Science, advised by [Dan Suciu](https://homes.cs.washington.edu/~suciu/), I decided to leave with M.S and work in industry. During my PhD, I focused on data systems and machine learning, specifically on join processing, and natural languge interfaces for querying knowledge graphs.
 
 ### Brief bio
 
