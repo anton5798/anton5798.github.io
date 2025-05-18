@@ -6,7 +6,7 @@
 name: Anton Lykov
 
 # Short bio or description (displayed in the header)
-description: Engineering @ Databricks
+description:
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/iam.jpg
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github:
+  github: anton5798
   instagram:
   linkedin:
   pinterest:
@@ -58,6 +58,8 @@ permalink: /:title/
 # The release of Jekyll Now that you're using
 version: v1.2.0
 
+markdown: kramdown
+
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
@@ -67,6 +69,9 @@ kramdown:
   syntax_highlighter_opts:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
+  math_engine: mathjax
+  math_engine_opts:
+    cdn: 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js'
 
 # Set the Sass partials directory, as we're using @imports
 sass:
